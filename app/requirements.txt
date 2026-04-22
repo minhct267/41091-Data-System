@@ -1,3 +1,5 @@
-pyodbc
-plotly
+streamlit
 pandas
+plotly
+pyodbc
+python-dotenv
